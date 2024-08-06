@@ -1,47 +1,80 @@
 {
   "pages": {
-    "/register/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/register/page.js"
-    ],
-    "/register/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/register/layout.css",
-      "static/chunks/app/register/layout.js"
+    "/_not-found/page": [
+      "static/chunks/webpack-8ca63ea386e81858.js",
+      "static/chunks/fd9d1056-3c604aaf18e3d173.js",
+      "static/chunks/23-422e90556c191047.js",
+      "static/chunks/main-app-e160ccfd6d395f5c.js",
+      "static/chunks/app/_not-found/page-885d05d0dc3187fc.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
-    "/dashboard/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/page.js"
-    ],
-    "/dashboard/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/layout.js"
-    ],
-    "/dashboard/tambah/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/dashboard/tambah/page.css",
-      "static/chunks/app/dashboard/tambah/page.js"
+      "static/chunks/webpack-8ca63ea386e81858.js",
+      "static/chunks/fd9d1056-3c604aaf18e3d173.js",
+      "static/chunks/23-422e90556c191047.js",
+      "static/chunks/main-app-e160ccfd6d395f5c.js",
+      "static/css/628765f20b848f76.css",
+      "static/css/3139f7794a3d3db7.css",
+      "static/chunks/app/layout-d03b1efdc901b39c.js"
     ],
     "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+      "static/chunks/webpack-8ca63ea386e81858.js",
+      "static/chunks/fd9d1056-3c604aaf18e3d173.js",
+      "static/chunks/23-422e90556c191047.js",
+      "static/chunks/main-app-e160ccfd6d395f5c.js",
+      "static/chunks/472-61913167e274c096.js",
+      "static/chunks/app/page-906ba02fde0815d9.js"
+    ],
+    "/register/page": [
+      "static/chunks/webpack-8ca63ea386e81858.js",
+      "static/chunks/fd9d1056-3c604aaf18e3d173.js",
+      "static/chunks/23-422e90556c191047.js",
+      "static/chunks/main-app-e160ccfd6d395f5c.js",
+      "static/chunks/472-61913167e274c096.js",
+      "static/chunks/app/register/page-4d6d411b5c1eb7f1.js"
+    ],
+    "/register/layout": [
+      "static/chunks/webpack-8ca63ea386e81858.js",
+      "static/chunks/fd9d1056-3c604aaf18e3d173.js",
+      "static/chunks/23-422e90556c191047.js",
+      "static/chunks/main-app-e160ccfd6d395f5c.js",
+      "static/css/628765f20b848f76.css",
+      "static/css/3139f7794a3d3db7.css",
+      "static/chunks/app/register/layout-8522ba0f6313ee52.js"
     ],
     "/dashboard/barang/tambah/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/barang/tambah/page.js"
+      "static/chunks/webpack-8ca63ea386e81858.js",
+      "static/chunks/fd9d1056-3c604aaf18e3d173.js",
+      "static/chunks/23-422e90556c191047.js",
+      "static/chunks/main-app-e160ccfd6d395f5c.js",
+      "static/chunks/472-61913167e274c096.js",
+      "static/chunks/app/dashboard/barang/tambah/page-fa70c045ea3ab636.js"
+    ],
+    "/dashboard/layout": [
+      "static/chunks/webpack-8ca63ea386e81858.js",
+      "static/chunks/fd9d1056-3c604aaf18e3d173.js",
+      "static/chunks/23-422e90556c191047.js",
+      "static/chunks/main-app-e160ccfd6d395f5c.js",
+      "static/chunks/472-61913167e274c096.js",
+      "static/chunks/app/dashboard/layout-4f094362e1f5775a.js"
+    ],
+    "/dashboard/tambah/page": [
+      "static/chunks/webpack-8ca63ea386e81858.js",
+      "static/chunks/fd9d1056-3c604aaf18e3d173.js",
+      "static/chunks/23-422e90556c191047.js",
+      "static/chunks/main-app-e160ccfd6d395f5c.js",
+      "static/css/c3c1fbb4abd379f9.css",
+      "static/chunks/e8686b1f-b499e1ebe3a44380.js",
+      "static/chunks/472-61913167e274c096.js",
+      "static/chunks/585-eded4e24dc5964cd.js",
+      "static/chunks/app/dashboard/tambah/page-b378ec5c86d9d8a4.js"
+    ],
+    "/dashboard/page": [
+      "static/chunks/webpack-8ca63ea386e81858.js",
+      "static/chunks/fd9d1056-3c604aaf18e3d173.js",
+      "static/chunks/23-422e90556c191047.js",
+      "static/chunks/main-app-e160ccfd6d395f5c.js",
+      "static/chunks/472-61913167e274c096.js",
+      "static/chunks/app/dashboard/page-fc33e5277fe4c3a9.js"
     ]
   }
 }
